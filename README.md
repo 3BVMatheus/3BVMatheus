@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boa vindas ao meu perfil 💙
 
-<!--
-**3BVMatheus/3BVMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vinícius Matheus Borges Indalécio
 
-Here are some ideas to get you started:
+- Estou estudando [Alura](https://www.alura.com)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vocẽ pode entrar em contato comigo 📫
+
+00001106929639sp@al.educacao.sp.gov.br
+
+@borg7s
+
+
+![](https://tenor.com/pt-BR/view/me-laxas-gif-16207684359002044257
